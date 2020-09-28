@@ -1,0 +1,14 @@
+@font-face {
+	font-family: "Isabella-Decor-M";
+	src: url('Isabella-Decor-M.otf');
+}
+@font-face {
+	font-family: "Planewalker-M";
+	src: url('Planewalker-M.otf');
+}
+.titletextf {
+	font-family: Planewalker-M;
+}
+.maintextf {
+	font-family: Isabella-Decor-M;
+}

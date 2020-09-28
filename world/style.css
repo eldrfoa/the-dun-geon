@@ -1,0 +1,23 @@
+@font-face {
+	font-family: "Isabella-Decor-M";
+	src: url('Isabella-Decor-M.otf');
+}
+@font-face {
+	font-family: "Planewalker-M";
+	src: url('Planewalker-M.otf');
+}
+.titletextf {
+	font-family: Isabella-Decor-M;
+	font-weight: bold;
+}
+.maintextf {
+	font-family: Planewalker-M;
+	font-size: 20px;
+}
+.sidetabs:hover {
+	cursor: pointer;
+	text-decoration: none;
+}
+.sidetabs.active {
+	color: #000;
+}

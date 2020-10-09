@@ -1,5 +1,5 @@
 # thedungeon
-Repository for a text-based rogue-like RPG
+Repository for a site for text-based rogue-like RPG
 
 https://eldrfoa.github.io/thedungeon/
 
